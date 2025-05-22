@@ -1,0 +1,24 @@
+The user credentials for the system are:
+For Patient login:
+
+Username: patient1
+Password: password123
+
+For Hospital Admin login (you have three options):
+
+City Hospital:
+
+Username: city_hospital_admin
+Password: adminpass
+
+
+General Hospital:
+
+Username: general_hospital_admin
+Password: adminpass
+
+
+Medical Center:
+
+Username: medical_center_admin
+Password: adminpass
